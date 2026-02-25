@@ -8,7 +8,7 @@ const config = {
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm 刘濯雨", // 标题
+	welcometitle: "Hi, I'm LiuZhuoyu", // 标题
 
 	// 颜色配置
 	color: {
@@ -54,17 +54,14 @@ const config = {
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://www.github.com/ACDVL01" },
-		{ icon: "mdi-email", link: "mailto:2726950188@qq.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-email", link: "mailto:i@liuzhuoyu.top" },
+		{ icon: "mdi-qqchat", link: "https://wpa.qq.com/msgrd?v=3&uin=2726950188&site=qq&menu=yes" },
+		{ icon: "mdi-wechat", link: "https://wx.qq.com/" }
 	],
 
 	//打字机
 	typeWriterStrings: [
 		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
-		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
 		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
 		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
 	],
@@ -138,7 +135,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "blog.https://liuzhuoyu.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://blog.liuzhuoyu.top", show: false },
 		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
