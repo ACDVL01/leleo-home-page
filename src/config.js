@@ -136,13 +136,15 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/blog.jpg", title: "个人博客", subtitle: "碎碎记", text: "想知道我都写了什么嘛", url: "https://blog.liuzhuoyu.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "共享云盘", subtitle: "个人网盘", text: "存放一些资料，也可用作网盘", url: "https://pan.liuzhuoyu.top", show: false },
-		{ go: "📝 前往", img: "/img/pan.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
+		{ go: "🗂️ 前往", img: "/img/pan.jpg", title: "共享云盘", subtitle: "个人网盘", text: "存放一些资料，也可用作网盘", url: "https://pan.liuzhuoyu.top", show: false },
+/*注释！		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuzhuoyu.top", show: false },
+注释！
+*/
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2026 liuzhuoyu"],
